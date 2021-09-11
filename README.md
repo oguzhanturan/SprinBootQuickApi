@@ -88,8 +88,12 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialec
 mvn spring-boot:run
 ```
 
+## SwaggerUI Endpoint
+http://localhost:8080/swagger-ui.html#/
+
 ## SignIn Endpoint
 http://localhost:8080/api/auth/signin
+
 # Requests 
 
 ```xml
